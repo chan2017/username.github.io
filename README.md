@@ -1,22 +1,4 @@
-<<<<<<< HEAD
-HI :D
-=======
-# username.github.io
-CMSC320 Final Project
+<h3>Ed's task</h3>
 
-team: Christine Chan, Edward Mancho
-
-
-
-Data science tutorial
-
-Using EPA fuel economy data to learn what variables really go into recommending the most economical vehicle to drive in town, country, or both!
-
-
-<h1> Check the scraper-checkpoint.ipynb for the full tutorial </h1>
-
-
-
-
-
->>>>>>> origin/master
+<p>Home Page</p>
+<p>Switching between pages</p>
